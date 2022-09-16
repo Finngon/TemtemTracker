@@ -1,22 +1,8 @@
 # TemtemTracker
 
 ### Scroll to Releases below for download
+
 ### Update V4.5 with Arbury species can be found down below
-
-### Farewell
-
-Dear Reader,
-
-Over time I have grown more and more disenchanted with Crema and their approach to handling things, starting with a point where I disclosed what I felt was a serious issue and got treated in a way I do not feel was ok. Having experienced this, I started asking myself some hard questions about how they were doing things, how they were treating players, and also about where I myself stood in that whole. 
-
-From where I stand right now, it is obvious that the way they handled many of their players was wrong, and that the way I steadfastly supported them was also wrong. Many conversations that maybe could have been had in a less shutdown-happy environment should have been had and would have made for a better game in the long term. For my participation on the wrong side of many of these debates, I can now only apologize.
-
-Despite no longer wanting to support Crema, I still wished to complete the final list of Temtem species in the tracker as a matter of personal principle and my own desire to "complete" a project that started out of love for a game and studio, but also afterwards grew to become something I cared about for its own sake. A project I am proud to have made and shared with so many of you.
-
-It is my hope that TemtemTracker will be able to continue operating long into the future, and should any game changes result in the tracker breaking, that this open source repository will provide others with all the resources they need to embark upon their own forks/updates OR entirely new trackers that they themselves make in a similar fashion.
-
-Farewell,
-Silber
 
 ## TemtemTracker
 Temtem Tracker is a tracker for encountered Temtem based on Optical Character Recognition. 
